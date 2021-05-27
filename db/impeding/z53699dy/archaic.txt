@@ -1,0 +1,11 @@
+RTA: 20:17.250
+Load: 7.333
+Pause: 2.667
+Load: 1.950
+Pause: 2.233
+Load: 8.200
+RTA without loads: 19:54.867
+5 minute lag (non-reverting, non-stalling): 5.517
+10 minute lag (non-reverting, stalling): 10.383
+15 minute lag (reverting): 8.000
+RTA without loads without lag: 19:30.967
