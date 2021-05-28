@@ -1,0 +1,10 @@
+19:45.267 RTA
+00:01.333 Pause 1
+00:02.367 Pause 2
+00:06.117 Load 1
+00:06.767 Impeding 5
+00:01.000 Load 2
+00:05.933 Impeding 10
+00:00.000 Non-Impeding 15
+00:00.500 Load 3
+19:21.250 TA w/o L w/o I
