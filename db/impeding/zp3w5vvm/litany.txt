@@ -1,0 +1,45 @@
+Rekagan 1.14
+00:13:38 START
+02:17:35 S+Q 1 Start
+02:31:54 S+Q 1 End
+05:08:25 Pause 1 Start
+05:11:29 Pause 1 End
+06:31:07 Pause 2 Start
+06:34:14 Pause 2 End
+07:28:38 Load/Pause 1 Start
+07:38:24 Load/Pause 1 End
+13:01:25 Load 2 Start
+13:01:59 Load 2 End
+13:19:26 Pause 3 Start
+13:22:26 Pause 3 End
+13:32:30 Pause 4 Start
+13:34:31 Pause 4 End
+13:35:50 Pause 5 Start
+13:44:11 Pause 5 End
+13:44:16 Pause 6 Start
+13:49:25 Pause 6 End
+14:55:27 Pause 7 Start
+14:58:31 Pause 7 End
+19:32:51 Load/Pause 3 Start
+19:45:20 Load/Pause 3 End
+20:17:35 Pause 8 Start
+21:52:45 Pause 8 End
+23:19:37 END
+
+23:05:59 RTA
+00:14:19 S+Q 1
+00:03:04 Pause 1
+00:03:07 Pause 2
+00:09:46 Load/Pause 1
+00:00:00 Non-Impeding 7
+00:00:00 Non-Impeding 12
+00:00:34 Load 2
+00:03:00 Pause 3
+00:02:01 Pause 4
+00:08:21 Pause 5
+00:05:09 Pause 6
+00:03:04 Pause 7
+00:00:00 Non-Impeding 17
+00:12:29 Load/Pause 3
+01:35:10 Pause 8
+20:25:55 TA w/o L w/o I
