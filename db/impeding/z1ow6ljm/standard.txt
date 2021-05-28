@@ -1,0 +1,9 @@
+22:03.833 RTA
+00:04.483 Load 1
+00:00.000 Non-Impeding 5
+00:00.817 Load 2
+00:00.000 Non-Impeding 10
+00:03.200 Impeding 15
+00:04.483 Impeding 20
+00:00.617 Load 3
+21:50.233 TA w/o L w/o I
