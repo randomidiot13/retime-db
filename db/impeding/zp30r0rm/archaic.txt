@@ -1,0 +1,10 @@
+19:45.267 RTA
+00:01.333 Pause
+00:02.367 Pause
+00:06.117 Load
+00:06.767 Stalling
+00:01.000 Load
+00:05.933 Stalling
+00:00.000 Non-Impeding
+00:00.500 Load
+19:21.250 TA w/o L w/o I
